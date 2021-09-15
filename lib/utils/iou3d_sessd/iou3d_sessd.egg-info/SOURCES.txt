@@ -1,0 +1,8 @@
+setup.py
+iou3d_sessd.egg-info/PKG-INFO
+iou3d_sessd.egg-info/SOURCES.txt
+iou3d_sessd.egg-info/dependency_links.txt
+iou3d_sessd.egg-info/top_level.txt
+src/iou3d.cpp
+src/iou3d_cpu.cpp
+src/iou3d_kernel.cu
